@@ -1,8 +1,8 @@
 # StreamCat
 
-PC(Windows)와 모바일(Android)을 USB 또는 로컬 Wi-Fi로 연결해 사용하는 커스텀 매크로 스트림 덱 & 볼륨 믹서 앱 **StreamCat**의 공식 다운로드 및 정책 저장소입니다.
+PC(Windows)와 모바일(Android)을 USB 또는 로컬 Wi-Fi로 연결해 사용하는 **커스텀 매크로 패드 & 볼륨 믹서** 앱 **StreamCat**의 공식 다운로드 및 정책 저장소입니다.
 
-Turn your smartphone into a high-speed PC macro Stream Deck and Windows volume mixer over USB or local Wi-Fi (QR scan & auto-discovery).
+Turn your smartphone into a fast, customizable PC macro pad and Windows volume mixer over USB or local Wi-Fi (QR scan & auto-discovery).
 
 ---
 
